@@ -101,6 +101,7 @@ Clone this repository in to the Sublime Text 2 or 3 "Packages" directory, which 
 - [earshinov](https://github.com/earshinov) - base64 fixes
 - [alimony](https://github.com/alimony) - Fixes for HTML Entities + enabled support for both ST2 & 3 in a single package
 - [ohaucke](https://github.com/ohaucke) - Context menu for the included commands
+- [komaflash](https://github.com/komaflash) - SHA224, SHA256, SHA384 and SHA512
 
 ## License
 Copyright (C) 2012-2013 Dino Angelov & Contributors
